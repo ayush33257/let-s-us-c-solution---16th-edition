@@ -1,0 +1,13 @@
+/n          -->   escape sequence
+3.145       -->   real constant
+-6513       -->   integer constant
+'D'         -->   character constant
+4.25e-3     -->   exponential form
+main()      -->   function
+%f,%d,%c    -->   format specifier
+;           -->   statement terminator
+constant    -->   literal
+variable    -->   identifier
+&           -->   address of operator
+printf()    -->   output function
+scanf()     -->   input function

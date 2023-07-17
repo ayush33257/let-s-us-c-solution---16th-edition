@@ -1,0 +1,14 @@
+(c)   char is a keyword, and we can't use a keyword as a variable name
+
+(d)   variable can't be on right side
+
+(e)   power in not allowed in c.
+      we can achieve it by using pow()
+
+(h)   space are not allowed within a variable name
+
+(j)   "/" is divide operator in c
+
+(k)   b can't be assign to a integer
+
+(m)   only one characters are allowed in char

@@ -1,0 +1,12 @@
+(a)  put statement terminator after int a and after float 
+          ex -->  int a; float b; int c;
+
+(b)  no error
+
+(c)  missing "&" in scanf()  
+          ex -->  scanf("%d%d%d",&a,&b,&c);
+
+(d)  missing statement terminator ";"
+
+
+
