@@ -1,7 +1,7 @@
 (a)  true
 (b)  true
 (c)  true
-(d)  false
+(d)  true
 (e)  true
 (f)  true
 (g)  true
